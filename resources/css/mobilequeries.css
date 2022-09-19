@@ -23,7 +23,7 @@
     }
 
     .subinput {
-        border: 2px solid #a82d49;
+        border: 2px solid #2112a7;
         width: 100%;
 
     }
@@ -76,7 +76,15 @@
 
 
 /* Small phones to small tablets: from 481px to 767px */
-@media only screen and (max-width: 767px) {}
+@media only screen and (max-width: 900px) {
+    .banner-writeup_holder h1 {
+        font-size: 35px;
+    }
+    
+    .banner-writeup_holder p {
+        line-height: 1.5;
+    }
+}
 
 
 

@@ -172,13 +172,13 @@ header {
 .banner-writeup_holder h1 {
     color: #f1f0f5;
     font-weight: 400;
-    font-size: 55px;
+    font-size: 50px;
     line-height: 1;
     margin: 0 0 20px 0;
 }
 
 .banner-writeup_holder p {
-    line-height: 1.7;
+    line-height: 1.6;
     margin: 0 0 20px 0;
     color: rgb(250, 246, 246);
 }
@@ -714,7 +714,7 @@ header {
     /* background: #a82d49; */
     /* color: #a82d49; */
     color: #fff;
-    border: 2px solid #eee;
+    /* border: 2px solid #eee; */
     font-size: 15px;
     /* padding: 5px; */
 }
